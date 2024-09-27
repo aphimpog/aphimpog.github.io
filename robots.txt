@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aphimpog.github.io/sitemap.aphimpog.gz
+Sitemap: https://aphimpog.github.io/app/sitemap.aphimpog.gz
+Sitemap: https://aphimpog.github.io/assets/sitemap.aphimpog.gz
+Sitemap: https://aphimpog.github.io/css/sitemap.aphimpog.gz
+Sitemap: https://aphimpog.github.io/data/sitemap.aphimpog.gz
+Sitemap: https://aphimpog.github.io/includes/sitemap.aphimpog.gz
+Sitemap: https://aphimpog.github.io/item/sitemap.aphimpog.gz
+Sitemap: https://aphimpog.github.io/src/sitemap.aphimpog.gz
